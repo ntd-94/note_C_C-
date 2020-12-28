@@ -9,9 +9,9 @@ priority /10
 		  -->Ethernet, TCP/IP
 		  -->CAN
 		  -->SPI, I2C, USART
+		  etc, to add more later
 
     8		- code review : liebherr code
-		  etc, to add more later
 
     7		- prac test and integration
 		  learn all test level methods
