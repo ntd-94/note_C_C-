@@ -1,0 +1,38 @@
+
+
+TODO
+
+priority /10
+
+    10		- STM32 prac:
+		  -->RTOS
+		  -->Ethernet, TCP/IP
+		  -->CAN
+		  -->SPI, I2C, USART
+
+    8		- code review : liebherr code
+		  etc, to add more later
+
+    7		- prac test and integration
+		  learn all test level methods
+		  prac unit test w/ C/C++ code
+
+    9		- TCP/IP projects x 2
+
+    7		- problem solving C/C++
+		  linux env: build, debug, code push git
+
+    10		- prac french, english
+
+    10		- job search
+ 
+    		- Udemy coures to finish:
+    7		 embedded linux BBB
+    7		 Linux shell x 2
+    7		 vim prac
+    6		 Qt 5 C++
+    8		 time management and focus
+    8		 soft skill
+    7		 French pronunciation cours
+    5		 ELinux Yocto
+    5		 Linux device driver
