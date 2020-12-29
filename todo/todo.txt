@@ -12,6 +12,7 @@ priority /10
 		  etc, to add more later
 
     8		- code review : liebherr code
+    		  use tools for prac: maybe Gerrit, Jenskins, SVN...
 
     7		- prac test and integration
 		  learn all test level methods
