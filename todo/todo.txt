@@ -10,8 +10,14 @@ priority /10
 		  -->CAN
 		  -->SPI, I2C, USART
 		  etc, to add more later
-
+		  
+		  MCU peri:
+		  Interrupt          Bootloader            RTC           USB
+		  Timer/PMW             DMA              Watchdog      SD card
+		  ADC/DAC            FIFO buffer           CRC        Mem: Flash, ROM
+		  
     8		- code review : liebherr code
+    		  use tools for prac: maybe Gerrit, Jenskins, SVN...
 
     7		- prac test and integration
 		  learn all test level methods
