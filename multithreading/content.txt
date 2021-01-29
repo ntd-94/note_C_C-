@@ -1,0 +1,3 @@
+- some useful links:
+  https://www.elesoftrom.com.pl/en/os/multithreaded_programming.pdf
+  
